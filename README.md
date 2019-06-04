@@ -17,7 +17,7 @@ Kick off your project with this UI Fabric boilerplate. This starter ships with t
 
     ```sh
     # create a new Gatsby site using the UI Fabric starter
-    gatsby new my-uifabric-starter https://github.com/gatsbyjs/gatsby-starter-uifabric
+    gatsby new my-uifabric-starter https://github.com/kenotron/gatsby-starter-uifabric
     ```
 
 1.  **Start developing.**
